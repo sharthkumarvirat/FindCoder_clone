@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/FindCoder_clone/static/css/main.31d6cfe0.css",
+    "main.js": "/FindCoder_clone/static/js/main.e47eb8a6.js",
+    "index.html": "/FindCoder_clone/index.html",
+    "main.e47eb8a6.js.map": "/FindCoder_clone/static/js/main.e47eb8a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e47eb8a6.js"
+  ]
+}
